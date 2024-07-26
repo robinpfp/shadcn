@@ -14,7 +14,7 @@ export default function page() {
         This is a warning
       </div> */}
       {/* <Separator /> */}
-      <div className="max-w-2xl mx-auto pb-20">
+      <div className="max-w-2xl mx-auto pb-20 px-10">
         <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
           The Joke Tax Chronicles
         </h1>
