@@ -7,6 +7,7 @@ import AspectRatioDemo from "@/components/demo/aspect-ratio";
 import AvatarDemo from "@/components/demo/avatar";
 import BadgeDemo from "@/components/demo/badge";
 import BreadcrumbDemo from "@/components/demo/breadcrumb";
+import CalendarDemo from "@/components/demo/calendar";
 
 export default function page() {
   return (
@@ -22,6 +23,7 @@ export default function page() {
         <AvatarDemo />
         <BadgeDemo />
         <BreadcrumbDemo />
+        <CalendarDemo />
       </section>
     </div>
   );
